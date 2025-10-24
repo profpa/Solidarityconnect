@@ -1,0 +1,7 @@
+{
+  "name": "Solidarity Connect",
+  "description": "An engagement and empowerment app for members and volunteers of the Solidarity Youth Movement Karnataka. It features a member dashboard, event management, a learning center with an AI-powered policy explainer, community forums, and campaign tracking tools.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
